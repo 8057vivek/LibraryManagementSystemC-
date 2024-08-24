@@ -54,4 +54,6 @@ Algorithm Implementation: Enhanced understanding of search and sort algorithms a
 Problem-Solving and System Design: Improved problem-solving skills and insights into system design.
 Software Development in C++: Gained proficiency in C++ and learned best practices in software development.
 ✅ Conclusion
-The Simple Library Management System project was a significant part of my summer training on Data Structures and Algorithms. It allowed me to apply the concepts I learned meaningfully, providing a solid foundation for future projects involving more complex data structures and algorithms. This experience has not only strengthened my technical skills but also prepared me for tackling advanced challenges in software development.
+The Simple Library Management System project was a significant part of my summer training on Data Structures and Algorithms.
+It allowed me to apply the concepts I learned meaningfully, providing a solid foundation for future projects involving more complex data structures and algorithms.
+This experience has not only strengthened my technical skills but also prepared me for tackling advanced challenges in software development.
